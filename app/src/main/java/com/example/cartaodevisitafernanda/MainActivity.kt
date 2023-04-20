@@ -57,7 +57,7 @@ fun PlanoDeFundo(){
 @Composable
 fun Rodape() {
     Column {
-        
+
         Contato()
         Contato()
         Contato()
@@ -76,7 +76,7 @@ fun Rodape() {
                  .clip(CircleShape)
          )
          Text(
-             text =(xx) xxxx-xxxx)
+             text ="(xx) xxxx-xxxx)"
 
      }
 }
